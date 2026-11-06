@@ -1,5 +1,4 @@
 {
-  "id":"./",
   "name":"Mariali",
   "short_name":"Mariali",
   "description":"Tarjetas de lectura del Método Filadelfia",
@@ -7,7 +6,6 @@
   "start_url":"./",
   "scope":"./",
   "display":"standalone",
-  "orientation":"any",
   "background_color":"#ffffff",
   "theme_color":"#ffffff",
   "icons":[{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]
